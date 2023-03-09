@@ -1,0 +1,16 @@
+  Ao confrontar um problema de tal magnitude, é importante que o empreendedor e sua equipe busque pelas causas que o originaram, não
+  somente os sintomas que foram apresentados, algo que pode ser feito através de uma árvore de problemas ou utilizando a técnica dos
+  cinco porquês. 
+  
+  De imediato, podemos utilizar a técnica dos cinco porquês.
+    Definição do problema: Os clientes não avaliam o nível de satisfação em uma empresa de delivery.
+      1. Por quê? O site de pesquisa não é viável aos clientes.
+      2. Por quê? A avaliação toma muito tempo dos clientes.
+      3. Por quê? Os clientes sentem dificuldade ao precisarem fazer a avaliação.
+      4. Por quê? Os clientes sentem insegurança ao acessar o site de avaliação.
+      5. Por quê? Os clientes não conhecem o site de pesquisa.
+    Contra-medida: providenciar um site de segurança, cuja a avaliação seja rápida e eficaz, além disso, tornar de conhecimento geral dos clientes a pesquisa de avaliação.
+    
+  Também é possível identificar as consequências, uma vez que a empresa não é bem avaliada, menos clientes serão atraídos por ela, ela não aparecerá nas principais pesquisas quando alguém estiver em busca de empresas de delivery.
+  
+  
