@@ -1,0 +1,1 @@
+  Em situações como essas é importante que os desenvolvedores estimulem testes com clientes e usuários finais, a fim de entender as funcionalidades do projeto e também identificar se há necessidade de alterações.
